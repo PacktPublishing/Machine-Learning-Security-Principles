@@ -1,0 +1,8 @@
+You've gained access to this file.
+This is a bad line.
+This is another bad line.
+This line is good.
+And, this line is just sort of OK.
+This is yet another bad line for good measure.
+You don't want this bad line either.
+Finally, this line is great!
