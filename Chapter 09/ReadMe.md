@@ -1,0 +1,2 @@
+# Defending Against Hackers
+This chapter looks at the targets and goals of hackers, but from a behavioral as well as a tangible perspective. Rather than view hackers as superhuman or criminals or anything else, the chapter is about discovering methods to monitor hacker behavior and use it as an adjunct to other security solutions. Building higher walls isn't working as a sole method of creating a secure environment. It's time to look at methods in addition to higher walls that will give a hacker a good reason to look anywhere other than your organization.
