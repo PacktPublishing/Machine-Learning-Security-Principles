@@ -1,0 +1,7 @@
+Date,FirstName,LastName,PrimaryAddress,Age,Income,Gender,ProductColor,Price,Gadget1,Gadget2
+01/15/23,George,Smith,"123 Anywhere, Anywhere, WI 59999",44,40000,M,Blue,199,TRUE,FALSE
+01/15/23,Sally,Jones,"123 Somewhere, Somewhere, NV 89503",32,80000,F,Red,169,FALSE,FALSE
+01/15/23,Renee,Walker,"123 Nowhere, Nowhere, CA 90011",49,60000,X,Purple,179,TRUE,TRUE
+01/16/23,Saniago,Dominguez,"123 Downthere, Downthere, MN 55144",50,100000,N,Green,209,TRUE,TRUE
+01/16/23,Abdullah,Brown,"123 Upthere, Upthere, FL 33052",0,60000,M,Yellow,179,FALSE,TRUE
+01/16/23,Fenhua,Yang,"123 Aroundthere, Aroundthere, NY 10008",89,80000,N,Red,199,TRUE,TRUE
