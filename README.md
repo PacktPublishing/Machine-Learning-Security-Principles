@@ -42,16 +42,14 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  	1-12	 |   						Python	                                            			  | Windows, Mac OS X, and Linux (Any) |
-|          |   																					  |                                    |
+|  	1-12	 |   						Python	                                                        			  | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
-
 
 ### Related products <Other books you may enjoy>
 * <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
 
 * <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
 
-## Get to Know the Author(s)
+## Get to Know the Author
 **John Paul Mueller** is a seasoned author and technical editor. He has writing in his blood, having produced 121 books and more than 600 articles to date. The topics range from networking to artificial intelligence and from database management to heads-down programming. Some of his current books include discussions of data science, machine learning, and algorithms. He also writes about computer languages such as C++, C#, and Python. His technical editing skills have helped more than 70 authors refine the content of their manuscripts. John has provided technical editing services to a variety of magazines, performed various kinds of consulting, and he writes certification exams.	
