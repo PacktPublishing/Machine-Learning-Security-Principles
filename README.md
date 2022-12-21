@@ -29,8 +29,9 @@ All of the code is organized into folders.
 
 The code will look like the following:
 ```
-<Any code block from the book>
-
+import getpass
+user = getpass.getuser()
+pwd = getpass.getpass("User Name : %s" % user)
 ```
 
 **Following is what you need for this book:**
@@ -42,7 +43,11 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
-|  	1-12	 |   						Python	                                                        			  | Windows, Mac OS X, and Linux (Any) |
+|  	1-12	 |   						Anaconda 3, 2020.07          | Windows 7, 10, or 11, macOS 10.13 or above Linux (Ubuntu, RedHat, and CentOS 7+ all tested) |
+|1-12| Python 3.8 or higher (version 3.9.x is highly recommended, versions above 3.10.7 aren’t recommended or tested |The test system uses this hardware, which is                                                                                                        considered minimal: Intel i7 CPU 8 GB RAM 500 GB hard drive|
+|1-12| NumPy 1.18.5 or greater (version 1.21.x is highly recommended) |                       |
+|1-12| Scikit-learn 0.23.1 or greater (version 1.0.x is highly recommended) |               |
+|1-12 | Pandas 1.1.3 or greater (version 1.4.x is highly recommended) |              |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
 
