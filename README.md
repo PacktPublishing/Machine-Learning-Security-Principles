@@ -52,9 +52,9 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
 
 ### Related products <Other books you may enjoy>
-* <Book name #1 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Production-Ready Applied Deep Learning [[Packt]](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) [[Amazon]](https://www.amazon.com/Production-Ready-Applied-Deep-Learning-TensorFlow/dp/180324366X)
 
-* <Book name #2 from backmatter> [[Packt]](<Book link on Packtpub>) [[Amazon]](https://www.amazon.com/dp/<10P-ISBN>)
+* Machine Learning Techniques for Text [[Packt]](https://www.packtpub.com/product/machine-learning-techniques-for-text/9781803242385) [[Amazon]](https://www.amazon.com/Machine-Learning-Techniques-Text-dimensionality/dp/1803242388)
 
 ## Get to Know the Author
 **John Paul Mueller** is a seasoned author and technical editor. He has writing in his blood, having produced 121 books and more than 600 articles to date. The topics range from networking to artificial intelligence and from database management to heads-down programming. Some of his current books include discussions of data science, machine learning, and algorithms. He also writes about computer languages such as C++, C#, and Python. His technical editing skills have helped more than 70 authors refine the content of their manuscripts. John has provided technical editing services to a variety of magazines, performed various kinds of consulting, and he writes certification exams.	
