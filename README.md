@@ -1,8 +1,8 @@
 # Machine Learning Security Principles
 
-<a href="<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>"><img src="https://static.packt-cdn.com/products/<13-P ISBN>/cover/smaller" alt="Machine Learning Security Principles" height="256px" align="right"></a>
+<a href="https://www.amazon.com/Machine-Learning-Security-Principles-applications-ebook/dp/B0BMGLBJD5/ref=sr_1_1?crid=UA5LK37QWFJQ&keywords=machine+learning+security+principles&qid=1671611170&s=books&sprefix=machine+kearning+security+principles%2Cstripbooks-intl-ship%2C333&sr=1-1"><img src="https://m.media-amazon.com/images/I/41aqkaqGIUL.jpg" alt="Machine Learning Security Principles" height="256px" align="right"></a>
 
-This is the code repository for [Machine Learning Security Principles](<Packtpub book link>?utm_source=github&utm_medium=repository&utm_campaign=<13-P ISBN>), published by Packt.
+This is the code repository for [Machine Learning Security Principles](https://www.amazon.com/Machine-Learning-Security-Principles-applications-ebook/dp/B0BMGLBJD5/ref=sr_1_1?crid=UA5LK37QWFJQ&keywords=machine+learning+security+principles&qid=1671611170&s=books&sprefix=machine+kearning+security+principles%2Cstripbooks-intl-ship%2C333&sr=1-1), published by Packt.
 
 **Use various methods to keep data, networks, users, and applications safe from prying eyes**
 
