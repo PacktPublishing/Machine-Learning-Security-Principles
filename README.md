@@ -49,8 +49,6 @@ With the following software and hardware list you can run all code files present
 |1-12| Scikit-learn 0.23.1 or greater (version 1.0.x is highly recommended) |               |
 |1-12 | Pandas 1.1.3 or greater (version 1.4.x is highly recommended) |              |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](<Graphic bundle link>).
-
 ### Related products <Other books you may enjoy>
 * Production-Ready Applied Deep Learning [[Packt]](https://www.packtpub.com/product/production-ready-applied-deep-learning/9781803243665) [[Amazon]](https://www.amazon.com/Production-Ready-Applied-Deep-Learning-TensorFlow/dp/180324366X)
 
