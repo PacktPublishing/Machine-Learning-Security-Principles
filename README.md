@@ -1,3 +1,11 @@
+
+### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
+
+<b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
+3 Days, 20+ AI Experts, 25+ Workshops and Power Talks 
+
+Code: <b>USD75OFF</b>
+
 # Machine Learning Security Principles
 
 <a href="https://www.amazon.com/Machine-Learning-Security-Principles-applications-ebook/dp/B0BMGLBJD5/ref=sr_1_1?crid=UA5LK37QWFJQ&keywords=machine+learning+security+principles&qid=1671611170&s=books&sprefix=machine+kearning+security+principles%2Cstripbooks-intl-ship%2C333&sr=1-1"><img src="https://m.media-amazon.com/images/I/41aqkaqGIUL.jpg" alt="Machine Learning Security Principles" height="256px" align="right"></a>
